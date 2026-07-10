@@ -413,7 +413,6 @@ address {
 	padding-bottom: 1.7em;
 	width: calc(100% + 40px);
 	margin-left: -20px;
-	position: relative;
 	overflow: hidden;
 }
 
@@ -426,13 +425,6 @@ address {
 .btn-location {
 	display: flex;
 	gap: 0.5em;
-}
-
-.img-flower-location {
-	position: absolute;
-	top: 0;
-	right: 0;
-	width: 120px;
 }
 
 .footer {
